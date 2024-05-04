@@ -1,0 +1,40 @@
+body{
+    background-color:darkgrey;
+}
+.container{
+display:flex;
+}
+.text{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100%;
+}
+.text2{
+    font-style: italic;
+    font-size: 150%;
+}
+.text3{
+    font-style: italic;
+    font-size: 150%;
+}
+.text4{
+    font-style: italic;
+    font-size: 150%;
+}
+
+
+.image{
+    height: 80%;
+    width:100%;
+}
+.image2{
+    height: 80%;
+    width:100%;
+}
+.image3{
+    height: 80%;
+    width:100%;
+}
+.image4{
+    height: 80%;
+    width:100%;
+}
